@@ -1,2 +1,2 @@
 # enot_db_update
-Python scirpt for enot database update
+Python scrirt for enot database update.
