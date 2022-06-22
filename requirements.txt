@@ -9,7 +9,7 @@ lazy-object-proxy==1.4.3
 loguru==0.4.1
 mccabe==0.6.1
 mysql-connector-python==8.0.19
-numpy==1.18.3
+numpy==1.22.0
 pandas==1.0.3
 pathlib==1.0.1
 protobuf==3.6.1
